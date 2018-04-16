@@ -1,0 +1,17 @@
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\bin\Debug\UsersControl.exe.config
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\bin\Debug\UsersControl.exe
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\bin\Debug\UsersControl.pdb
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.csprojResolveAssemblyReference.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\App.g.cs
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl_MarkupCompile.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl_MarkupCompile.lref
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\MainWindow.baml
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.g.resources
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.Properties.Resources.resources
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.csproj.GenerateResource.Cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.csproj.CoreCompileInputs.cache
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.exe
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\UsersControl.pdb
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\Create User.g.cs
+C:\Users\ww\Documents\Visual Studio 2017\Projects\UsersControl\UsersControl\obj\Debug\Create User.baml
